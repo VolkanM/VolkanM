@@ -1,2 +1,3 @@
-<img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/pikachu.png" emoji-code="pikachu" alt="pikachu" />
-Hi
+Hi there!
+I'm Volkan, from Turkish Republic. Working as a Data Scientist with Mathmetical Engineer background.
+Connect me via Linkedin: https://www.linkedin.com/in/volkan-muhacir/
